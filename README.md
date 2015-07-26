@@ -78,7 +78,7 @@ Code templates
 		<th>description</th>
 	</tr>
 	<tr>
-		<td>that</td><td>that / fest assert</td>
+		<td>that</td><td>that / assertj </td>
 	</tr>
 	<tr>
 		<td>ext</td><td>extract property</td>
